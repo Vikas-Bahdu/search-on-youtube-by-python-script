@@ -26,7 +26,7 @@ To run this program you will require a API key. Register your API key by clickin
 * Enjoy !!!!
 
 # :name_badge:License 
-This project is licensed under [MIT License](https://github.com/Vikas-Bahdu/Jarvis-AI/blob/master/LICENSE) 2022 vikas bhadu
+This project is licensed under [MIT License](https://github.com/beingvikasbhadu/search-on-youtube-by-python-script/new/master)2022 vikas bhadu
 
 
 # :arrow_upper_right:Future Improvements
