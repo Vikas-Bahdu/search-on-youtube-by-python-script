@@ -1,7 +1,7 @@
 # :mag_right:Search By KeyWord On YouTube
 I scripted a python script, with the help of this you can search anything on YouTube by just a keyword.
 
-# :hammer:Buit With
+# :hammer:Built With
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 
 # :fire:Features
